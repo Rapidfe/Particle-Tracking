@@ -20,7 +20,7 @@ Develop an algorithm for measuring momentum of particles from video.
 
 ### Result
 
-- Tracking result image :
+- Tracking result :
 
 ![result](./result.png)
 
