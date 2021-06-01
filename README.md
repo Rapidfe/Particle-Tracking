@@ -2,7 +2,7 @@
 
 ### Subject
 
-Develop an algorithm for measuring momentum of particles from video.
+Develop an algorithm for measuring particles' momentum from video.
 
 ### Objective
 
