@@ -26,6 +26,10 @@ Develop an algorithm for measuring particles' momentum from video.
 
 - Result plotting video : https://youtu.be/EuScO7I4GnA
 
+### Conference
+
+- [mathworks.com](https://www.mathworks.com/matlabcentral/fileexchange/13840-simple-particle-tracking?s_tid=srchtitle)
+
 　
 
 ### 세부 내용
@@ -67,5 +71,4 @@ Develop an algorithm for measuring particles' momentum from video.
     
   - 인식 가능한 입자의 모양이 제한적이다.
     - 원형 입자만 가능
-    
 
