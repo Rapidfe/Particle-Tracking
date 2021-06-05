@@ -8,7 +8,7 @@ Develop an algorithm for measuring particles' momentum from video.
 
 - Extract all frames from a video file.
 - Track particles and save the data.
-- Plot the result to confirm the accuracy.
+- Plot the result to confirm accuracy.
 
 ### Tech
 
